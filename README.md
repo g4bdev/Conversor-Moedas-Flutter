@@ -1,6 +1,6 @@
 # conversor_moedas
 
-converter moedas.
+converter os câmbios.
 
 ## Getting Started
 
