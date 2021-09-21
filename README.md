@@ -1,6 +1,6 @@
 # conversor_moedas
 
-converter os câmbios.
+App feito no inicio de minha jornada de aprendizado Flutter.
 
 ## Getting Started
 
